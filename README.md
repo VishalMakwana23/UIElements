@@ -1,5 +1,5 @@
 # Simple Registration Form
- registration form using swift
+ Registration form using swift
  
  
  #### UIElements
